@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
