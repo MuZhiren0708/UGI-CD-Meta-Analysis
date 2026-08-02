@@ -20,8 +20,7 @@ UGI-CD-Meta-Analysis/
 ├── data/
 │   └── extracted_data.csv      # Study-level extracted data (55 cohorts)
 ├── code/
-│   ├── traditional_meta.R      # Traditional meta-analysis code
-│   └── ml_enhanced_meta.py     # Machine learning enhanced Meta-Analysis code
+│   └── UGI_CD_Meta_Analysis.R  # Complete R analysis code (traditional meta + ML enhanced meta)
 ├── README.md
 └── LICENSE
 ```
@@ -62,13 +61,9 @@ The dataset (`data/extracted_data.csv`) contains 55 rows (one per cohort) with t
 
 ## Requirements
 
-### R (Traditional Meta-Analysis)
+### R (All Analysis)
 - R >= 4.0
-- Packages: `meta`, `metafor`, `dplyr`
-
-### Python (Machine Learning)
-- Python >= 3.8
-- Packages: `xgboost`, `scikit-learn`, `shap`, `pandas`, `numpy`, `matplotlib`
+- Packages: `ggplot2`, `patchwork`, `dplyr`, `svglite`, `ggbeeswarm`, `tidyverse`, `xgboost`, `caret`, `countrycode`, `shapviz`
 
 ## Citation
 
