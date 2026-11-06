@@ -1,0 +1,56 @@
+﻿row,paper,study,Use,pooled,reason,PDF,pages
+1,R019,Shen et al. (2025),P,1,"Retained under the original observational, study-reported L4 criteria",R019_Shen_2025.pdf,1–4
+2,R020,Chen et al. (2025) a,P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R020_Chen_2025.pdf,"2–4, 6"
+3,R020,Chen et al. (2025) b,P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R020_Chen_2025.pdf,"2–4, 6"
+4,R021,Bonfils et al. (2025),P,1,"Retained under the original observational, study-reported L4 criteria",R021_Bonfils_2025.pdf,"5–7, 9, 18–19"
+5,R022,Velho et al. (2023),P,1,"Retained under the original observational, study-reported L4 criteria",R022_Velho_2023.pdf,1–3
+6,R023,Facanali et al. (2023),P,1,"Retained under the original observational, study-reported L4 criteria",R023_Facanali_2023.pdf,2–4
+7,R024,Luceri et al. (2022),I,0,Explicit isolated-only L4 in first-surgery source; separate isolated outcome,R024_Luceri_2022.pdf,2–4
+8,R025,Joustra et al. (2022),P,1,"Retained under the original observational, study-reported L4 criteria",R025_Joustra_2022.pdf,2–4
+9,R026,Yen et al. (2021),I,0,Discussion explicitly states ONLY upper involvement; separate isolated outcome,R026_Yen_2021.pdf,2–4
+10,R027,Yao et al. (2021),I,0,Methods explicitly define isolated L4; separate isolated outcome,R027_Yao_2021.pdf,3–5
+11,R028,Tai et al. (2021),S,0,Post-capsule proximal-small-bowel outcome; not an inclusive all-site L4 count,R028_Tai_2021.pdf,3–5
+12,R029,Davies et al. (2020),P,1,"Retained under the original observational, study-reported L4 criteria",R029_Davies_2020.pdf,2–4; Figure1 and Tables1–2
+13,R030,Gupta et al. (2020) a,P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R030_Gupta_2020.pdf,"6–10,19; Table1"
+14,R030,Gupta et al. (2020) b,P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R030_Gupta_2020.pdf,"6–10,19; Table1"
+15,R031,Mena Bares et al. (2019),P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R031_Mena_Bares_2019.pdf,2–3; Table1
+16,R032,Kayar et al. (2019),P,1,"Retained under the original observational, study-reported L4 criteria",R032_Kayar_2019.pdf,2–3; Table1
+17,R033,Fumery et al. (2019),P,1,"Retained under the original observational, study-reported L4 criteria",R033_Fumery_2019.pdf,2–4; Table1
+18,R034,Arieira et al. (2018),P,1,"Retained under the original observational, study-reported L4 criteria",R034_Arieira_2018.pdf,2–3; Table1 and Discussion
+19,R035,Arora et al. (2018),P,1,"Retained under the original observational, study-reported L4 criteria",R035_Arora_2018.pdf,2–4; Table1
+20,R036,González-Suárez et al. (2018),S,0,Jejunal capsule lesions in established CD; separate small-bowel outcome,R036_González-Suárez_2018.pdf,2–5; Tables1–4
+21,R037,Lo et al. (2018),P,1,"Retained under the original observational, study-reported L4 criteria",R037_Lo_2018.pdf,"5–9,20; Table1"
+22,R038,Assa et al. (2018),P,1,"Retained under the original observational, study-reported L4 criteria",R038_Assa_2018.pdf,2–3; Table1
+23,R039,de Barros et al. (2017),P,1,"Retained under the original observational, study-reported L4 criteria",R039_de_Barros_2017.pdf,2–3; Table1
+24,R040,Rönnblom et al. (2017),P,1,"Retained under the original observational, study-reported L4 criteria",R040_Rönnblom_2017.pdf,2–4; Table1
+25,R041,Coughlan et al. (2017) a,P,1,"Retained under the original observational, study-reported L4 criteria",R041_Coughlan_2017.pdf,2–5; Table4
+26,R041,Coughlan et al. (2017) b,P,1,"Retained under the original observational, study-reported L4 criteria",R041_Coughlan_2017.pdf,2–5; Table4
+27,R006,Kalaria et al. (2016),P,1,"Retained under the original observational, study-reported L4 criteria",R006_Kalaria_2016.pdf,2–3; Table3
+28,R042,Simian et al. (2016),P,1,"Retained under the original observational, study-reported L4 criteria",R042_Simian_2016.pdf,3–4; Table2
+29,R043,Guerra et al. (2016),P,1,"Retained under the original observational, study-reported L4 criteria",R043_Guerra_2016.pdf,2–5; Table1
+30,R044,Parente et al. (2015),P,1,"Retained under the original observational, study-reported L4 criteria",R044_Parente_2015.pdf,"3,5–6; Tables1–2"
+31,R045,Carpio et al. (2015),P,1,"Retained under the original observational, study-reported L4 criteria",R045_Carpio_2015.pdf,2–4; Table2
+32,R046,Abu Freha et al. (2015),I,0,Isolated upper disease category; separate isolated outcome,R046_Abu_Freha_2015.pdf,2–3; Table1
+33,R047,Israeli et al. (2014),P,1,"Retained under the original observational, study-reported L4 criteria",R047_Israeli_2014.pdf,"2–5; Tables1,4"
+34,R048,Sjöberg et al. (2014),D,0,"Confirmed ICURE2005-2009 repeat; RonnbIom2017 retained, replacement sensitivity supplied",R048_Sjöberg_2014.pdf,2–5; Tables1–2
+35,R049,de Bie et al. (2013),P,1,"Retained under the original observational, study-reported L4 criteria",R049_de_Bie_2013.pdf,"2–5; Figure2,Table2; Discussionp7"
+36,R007,Lazarev et al. (2013),P,1,"Retained under the original observational, study-reported L4 criteria",R007_Lazarev_2013.pdf,"2–4; Figure1,Table1"
+37,R050,Brinar et al. (2013),P,1,"Retained under the original observational, study-reported L4 criteria",R050_Brinar_2013.pdf,3–4; Table2
+38,R051,Syed et al. (2013),U,0,"37 L4 records relate to325 repeated operations, not211 unique-patient outcomes",R051_Syed_2013.pdf,2–3; Table1
+39,R052,Ryan et al. (2013),P,1,"Retained under the original observational, study-reported L4 criteria",R052_Ryan_2013.pdf,3–5; Tables1–2
+40,R053,Boualit et al. (2013),D,0,Confirmed EPIMAD operated subset of Fumery parent cohort; not double-counted,R053_Boualit_2013.pdf,2–3; Table1
+41,R054,Lovasz et al. (2013),U,0,Source reports4.8%; no integer numerator over506 rounds to4.8%; do not invent24 cases,R054_Lovasz_2013.pdf,2–4; Table1
+42,R055,Damas et al. (2013) a,P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R055_Damas_2013.pdf,2–5; Table2
+43,R055,Damas et al. (2013) b,P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R055_Damas_2013.pdf,2–5; Table2
+44,R056,Kestens et al. (2013) a,M,0,"Sample selected by matching on Montreal/location; describe, do not estimate ordinary prevalence",R056_Kestens_2013.pdf,"6–10, Table1"
+45,R056,Kestens et al. (2013) b,M,0,"Sample selected by matching on Montreal/location; describe, do not estimate ordinary prevalence",R056_Kestens_2013.pdf,"6–10, Table1"
+46,R057,Kiss et al. (2012),I,0,ONLY upper-GI category and exclusive locations; separate isolated outcome,R057_Kiss_2012.pdf,2–3; Table1
+47,R058,Eshuis et al. (2012),M,0,"Cases/controls explicitly matched on L4; describe, do not estimate ordinary prevalence",R058_Eshuis_2012.pdf,2–3; Table1
+48,R059,Song et al. (2011),P,1,"Retained under the original observational, study-reported L4 criteria",R059_Song_2011.pdf,2–3; Table1
+49,R060,Thia et al. (2010),P,1,"Retained under the original observational, study-reported L4 criteria",R060_Thia_2010.pdf,2–4; Table1
+50,R061,Sewell et al. (2010),P,1,"Retained under the original observational, study-reported L4 criteria",R061_Sewell_2010.pdf,2–6; Table3 andfootnotes
+51,R062,Lakatos et al. (2009),P,1,"Retained under the original observational, study-reported L4 criteria",R062_Lakatos_2009.pdf,2–3; Table1
+52,R017,Chow et al. (2009),P,1,"Retained under the original observational, study-reported L4 criteria",R017_Chow_2009.pdf,1–4; Table1 andfootnotes
+53,R063,Seow et al. (2009),P,1,"Retained under the original observational, study-reported L4 criteria",R063_Seow_2009.pdf,2–3; Table1
+54,R064,Cullen et al. (2009),P,1,Source-reported L4 retained with unclear isolated-versus-modifier interpretation; excluded in strict-definition sensitivity,R064_Cullen_2009.pdf,2–3; Table1
+55,R065,Tarrant et al. (2008),P,1,"Retained under the original observational, study-reported L4 criteria",R065_Tarrant_2008.pdf,2–5; Tables3–5

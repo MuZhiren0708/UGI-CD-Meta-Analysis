@@ -1,0 +1,107 @@
+{
+  "LASSO": {
+    "feature_order": ["Age", "Male", "LogN"],
+    "training_medians_core": {
+      "Age": 30.6,
+      "Male": 53.3,
+      "LogN": 5.3082
+    },
+    "training_median_L3": 0,
+    "training_weighted_means": {
+      "Age": 29.6493,
+      "Male": 53.1797,
+      "LogN": 5.4811
+    },
+    "training_weighted_SD": {
+      "Age": 7.7329,
+      "Male": 7.8391,
+      "LogN": 0.9631
+    },
+    "feature_set": "core"
+  },
+  "Random forest": {
+    "feature_order": ["Age", "Male", "LogN"],
+    "training_medians_core": {
+      "Age": 30.6,
+      "Male": 53.3,
+      "LogN": 5.3082
+    },
+    "training_median_L3": 0,
+    "training_weighted_means": {
+      "Age": 29.6493,
+      "Male": 53.1797,
+      "LogN": 5.4811
+    },
+    "training_weighted_SD": {
+      "Age": 7.7329,
+      "Male": 7.8391,
+      "LogN": 0.9631
+    },
+    "feature_set": "core"
+  },
+  "XGBoost": {
+    "feature_order": ["Age", "Male", "LogN"],
+    "training_medians_core": {
+      "Age": 30.6,
+      "Male": 53.3,
+      "LogN": 5.3082
+    },
+    "training_median_L3": 0,
+    "training_weighted_means": {
+      "Age": 29.6493,
+      "Male": 53.1797,
+      "LogN": 5.4811
+    },
+    "training_weighted_SD": {
+      "Age": 7.7329,
+      "Male": 7.8391,
+      "LogN": 0.9631
+    },
+    "feature_set": "core"
+  },
+  "REML meta-regression": {
+    "feature_order": ["Age", "Male", "LogN"],
+    "training_medians_core": {
+      "Age": 30.6,
+      "Male": 53.3,
+      "LogN": 5.3082
+    },
+    "training_median_L3": 0,
+    "training_weighted_means": {
+      "Age": 29.6493,
+      "Male": 53.1797,
+      "LogN": 5.4811
+    },
+    "training_weighted_SD": {
+      "Age": 7.7329,
+      "Male": 7.8391,
+      "LogN": 0.9631
+    },
+    "feature_set": "core"
+  },
+  "Mean-only baseline": null,
+  "LASSO + L3": {
+    "feature_order": ["Age", "Male", "LogN", "L3", "L3_missing"],
+    "training_medians_core": {
+      "Age": 30.6,
+      "Male": 53.3,
+      "LogN": 5.3082
+    },
+    "training_median_L3": 0.4382,
+    "training_weighted_means": {
+      "Age": 29.6493,
+      "Male": 53.1797,
+      "LogN": 5.4811,
+      "L3": 0.4313,
+      "L3_missing": 0.2344
+    },
+    "training_weighted_SD": {
+      "Age": 7.7329,
+      "Male": 7.8391,
+      "LogN": 0.9631,
+      "L3": 0.1115,
+      "L3_missing": 0.4236
+    },
+    "feature_set": "l3"
+  }
+}

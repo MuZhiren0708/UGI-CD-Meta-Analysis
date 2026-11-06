@@ -1,0 +1,301 @@
+"model","repeat_id","fold","parameters","training_l3_median"
+"LASSO",1,1,"{""lambda"":0.5}",NA
+"Random forest",1,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",1,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",1,1,"null",NA
+"Mean-only baseline",1,1,"null",NA
+"LASSO + L3",1,1,"{""lambda"":0.5}",0.382509054577245
+"LASSO",1,2,"{""lambda"":0.3}",NA
+"Random forest",1,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",1,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",1,2,"null",NA
+"Mean-only baseline",1,2,"null",NA
+"LASSO + L3",1,2,"{""lambda"":0.5}",0.399304414503232
+"LASSO",1,3,"{""lambda"":0.5}",NA
+"Random forest",1,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",1,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",1,3,"null",NA
+"Mean-only baseline",1,3,"null",NA
+"LASSO + L3",1,3,"{""lambda"":0.5}",0.475809822361547
+"LASSO",1,4,"{""lambda"":0.15}",NA
+"Random forest",1,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",1,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",1,4,"null",NA
+"Mean-only baseline",1,4,"null",NA
+"LASSO + L3",1,4,"{""lambda"":0.04}",0.396648044692737
+"LASSO",1,5,"{""lambda"":0.3}",NA
+"Random forest",1,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",1,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",1,5,"null",NA
+"Mean-only baseline",1,5,"null",NA
+"LASSO + L3",1,5,"{""lambda"":0.5}",0.450704225352113
+"LASSO",2,1,"{""lambda"":0.3}",NA
+"Random forest",2,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",2,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",2,1,"null",NA
+"Mean-only baseline",2,1,"null",NA
+"LASSO + L3",2,1,"{""lambda"":0.5}",0.475809822361547
+"LASSO",2,2,"{""lambda"":0.15}",NA
+"Random forest",2,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",2,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",2,2,"null",NA
+"Mean-only baseline",2,2,"null",NA
+"LASSO + L3",2,2,"{""lambda"":0.15}",0.399304414503232
+"LASSO",2,3,"{""lambda"":0.5}",NA
+"Random forest",2,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",2,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",2,3,"null",NA
+"Mean-only baseline",2,3,"null",NA
+"LASSO + L3",2,3,"{""lambda"":0.5}",0.438202247191011
+"LASSO",2,4,"{""lambda"":0.3}",NA
+"Random forest",2,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",2,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",2,4,"null",NA
+"Mean-only baseline",2,4,"null",NA
+"LASSO + L3",2,4,"{""lambda"":0.3}",0.444453236271562
+"LASSO",2,5,"{""lambda"":0.15}",NA
+"Random forest",2,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",2,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",2,5,"null",NA
+"Mean-only baseline",2,5,"null",NA
+"LASSO + L3",2,5,"{""lambda"":0.5}",0.438202247191011
+"LASSO",3,1,"{""lambda"":0.3}",NA
+"Random forest",3,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",3,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",3,1,"null",NA
+"Mean-only baseline",3,1,"null",NA
+"LASSO + L3",3,1,"{""lambda"":0.5}",0.455865829477859
+"LASSO",3,2,"{""lambda"":0.3}",NA
+"Random forest",3,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",3,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",3,2,"null",NA
+"Mean-only baseline",3,2,"null",NA
+"LASSO + L3",3,2,"{""lambda"":0.5}",0.399304414503232
+"LASSO",3,3,"{""lambda"":0.5}",NA
+"Random forest",3,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",3,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",3,3,"null",NA
+"Mean-only baseline",3,3,"null",NA
+"LASSO + L3",3,3,"{""lambda"":0.5}",0.473529411764706
+"LASSO",3,4,"{""lambda"":0.15}",NA
+"Random forest",3,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",3,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",3,4,"null",NA
+"Mean-only baseline",3,4,"null",NA
+"LASSO + L3",3,4,"{""lambda"":0.3}",0.420081515752368
+"LASSO",3,5,"{""lambda"":0.15}",NA
+"Random forest",3,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",3,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",3,5,"null",NA
+"Mean-only baseline",3,5,"null",NA
+"LASSO + L3",3,5,"{""lambda"":0.3}",0.438202247191011
+"LASSO",4,1,"{""lambda"":0.5}",NA
+"Random forest",4,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",4,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",4,1,"null",NA
+"Mean-only baseline",4,1,"null",NA
+"LASSO + L3",4,1,"{""lambda"":0.5}",0.474643493761141
+"LASSO",4,2,"{""lambda"":0.3}",NA
+"Random forest",4,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",4,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",4,2,"null",NA
+"Mean-only baseline",4,2,"null",NA
+"LASSO + L3",4,2,"{""lambda"":0.3}",0.396648044692737
+"LASSO",4,3,"{""lambda"":0.5}",NA
+"Random forest",4,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",4,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",4,3,"null",NA
+"Mean-only baseline",4,3,"null",NA
+"LASSO + L3",4,3,"{""lambda"":0.5}",0.438202247191011
+"LASSO",4,4,"{""lambda"":0.3}",NA
+"Random forest",4,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",4,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",4,4,"null",NA
+"Mean-only baseline",4,4,"null",NA
+"LASSO + L3",4,4,"{""lambda"":0.3}",0.444453236271562
+"LASSO",4,5,"{""lambda"":0.3}",NA
+"Random forest",4,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",4,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",4,5,"null",NA
+"Mean-only baseline",4,5,"null",NA
+"LASSO + L3",4,5,"{""lambda"":0.3}",0.382509054577245
+"LASSO",5,1,"{""lambda"":0.15}",NA
+"Random forest",5,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",5,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",5,1,"null",NA
+"Mean-only baseline",5,1,"null",NA
+"LASSO + L3",5,1,"{""lambda"":0.5}",0.475757575757576
+"LASSO",5,2,"{""lambda"":0.3}",NA
+"Random forest",5,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",5,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",5,2,"null",NA
+"Mean-only baseline",5,2,"null",NA
+"LASSO + L3",5,2,"{""lambda"":0.3}",0.438202247191011
+"LASSO",5,3,"{""lambda"":0.5}",NA
+"Random forest",5,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",5,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",5,3,"null",NA
+"Mean-only baseline",5,3,"null",NA
+"LASSO + L3",5,3,"{""lambda"":0.5}",0.399304414503232
+"LASSO",5,4,"{""lambda"":0.5}",NA
+"Random forest",5,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",5,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",5,4,"null",NA
+"Mean-only baseline",5,4,"null",NA
+"LASSO + L3",5,4,"{""lambda"":0.15}",0.444453236271562
+"LASSO",5,5,"{""lambda"":0.15}",NA
+"Random forest",5,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",5,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",5,5,"null",NA
+"Mean-only baseline",5,5,"null",NA
+"LASSO + L3",5,5,"{""lambda"":0.5}",0.420081515752368
+"LASSO",6,1,"{""lambda"":0.3}",NA
+"Random forest",6,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",6,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",6,1,"null",NA
+"Mean-only baseline",6,1,"null",NA
+"LASSO + L3",6,1,"{""lambda"":0.5}",0.473529411764706
+"LASSO",6,2,"{""lambda"":0.3}",NA
+"Random forest",6,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",6,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",6,2,"null",NA
+"Mean-only baseline",6,2,"null",NA
+"LASSO + L3",6,2,"{""lambda"":0.5}",0.396648044692737
+"LASSO",6,3,"{""lambda"":0.5}",NA
+"Random forest",6,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",6,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",6,3,"null",NA
+"Mean-only baseline",6,3,"null",NA
+"LASSO + L3",6,3,"{""lambda"":0.5}",0.474643493761141
+"LASSO",6,4,"{""lambda"":0.5}",NA
+"Random forest",6,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",6,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",6,4,"null",NA
+"Mean-only baseline",6,4,"null",NA
+"LASSO + L3",6,4,"{""lambda"":0.5}",0.420081515752368
+"LASSO",6,5,"{""lambda"":0.3}",NA
+"Random forest",6,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",6,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",6,5,"null",NA
+"Mean-only baseline",6,5,"null",NA
+"LASSO + L3",6,5,"{""lambda"":0.3}",0.382509054577245
+"LASSO",7,1,"{""lambda"":0.3}",NA
+"Random forest",7,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",7,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",7,1,"null",NA
+"Mean-only baseline",7,1,"null",NA
+"LASSO + L3",7,1,"{""lambda"":0.5}",0.362837073635335
+"LASSO",7,2,"{""lambda"":0.5}",NA
+"Random forest",7,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",7,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",7,2,"null",NA
+"Mean-only baseline",7,2,"null",NA
+"LASSO + L3",7,2,"{""lambda"":0.5}",0.438202247191011
+"LASSO",7,3,"{""lambda"":0.15}",NA
+"Random forest",7,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",7,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",7,3,"null",NA
+"Mean-only baseline",7,3,"null",NA
+"LASSO + L3",7,3,"{""lambda"":0.08}",0.417425145941874
+"LASSO",7,4,"{""lambda"":0.5}",NA
+"Random forest",7,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",7,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",7,4,"null",NA
+"Mean-only baseline",7,4,"null",NA
+"LASSO + L3",7,4,"{""lambda"":0.5}",0.473529411764706
+"LASSO",7,5,"{""lambda"":0.5}",NA
+"Random forest",7,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",7,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",7,5,"null",NA
+"Mean-only baseline",7,5,"null",NA
+"LASSO + L3",7,5,"{""lambda"":0.5}",0.462116818558409
+"LASSO",8,1,"{""lambda"":0.3}",NA
+"Random forest",8,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",8,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",8,1,"null",NA
+"Mean-only baseline",8,1,"null",NA
+"LASSO + L3",8,1,"{""lambda"":0.3}",0.396648044692737
+"LASSO",8,2,"{""lambda"":0.5}",NA
+"Random forest",8,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",8,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",8,2,"null",NA
+"Mean-only baseline",8,2,"null",NA
+"LASSO + L3",8,2,"{""lambda"":0.5}",0.444453236271562
+"LASSO",8,3,"{""lambda"":0.15}",NA
+"Random forest",8,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",8,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",8,3,"null",NA
+"Mean-only baseline",8,3,"null",NA
+"LASSO + L3",8,3,"{""lambda"":0.5}",0.462116818558409
+"LASSO",8,4,"{""lambda"":0.15}",NA
+"Random forest",8,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",8,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",8,4,"null",NA
+"Mean-only baseline",8,4,"null",NA
+"LASSO + L3",8,4,"{""lambda"":0.15}",0.420081515752368
+"LASSO",8,5,"{""lambda"":0.15}",NA
+"Random forest",8,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",8,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",8,5,"null",NA
+"Mean-only baseline",8,5,"null",NA
+"LASSO + L3",8,5,"{""lambda"":0.3}",0.438202247191011
+"LASSO",9,1,"{""lambda"":0.5}",NA
+"Random forest",9,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",9,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",9,1,"null",NA
+"Mean-only baseline",9,1,"null",NA
+"LASSO + L3",9,1,"{""lambda"":0.5}",0.444453236271562
+"LASSO",9,2,"{""lambda"":0.3}",NA
+"Random forest",9,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",9,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",9,2,"null",NA
+"Mean-only baseline",9,2,"null",NA
+"LASSO + L3",9,2,"{""lambda"":0.3}",0.450704225352113
+"LASSO",9,3,"{""lambda"":0.5}",NA
+"Random forest",9,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",9,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",9,3,"null",NA
+"Mean-only baseline",9,3,"null",NA
+"LASSO + L3",9,3,"{""lambda"":0.5}",0.462116818558409
+"LASSO",9,4,"{""lambda"":0.15}",NA
+"Random forest",9,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",9,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",9,4,"null",NA
+"Mean-only baseline",9,4,"null",NA
+"LASSO + L3",9,4,"{""lambda"":0.08}",0.401960784313726
+"LASSO",9,5,"{""lambda"":0.15}",NA
+"Random forest",9,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",9,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",9,5,"null",NA
+"Mean-only baseline",9,5,"null",NA
+"LASSO + L3",9,5,"{""lambda"":0.5}",0.399304414503232
+"LASSO",10,1,"{""lambda"":0.3}",NA
+"Random forest",10,1,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",10,1,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",10,1,"null",NA
+"Mean-only baseline",10,1,"null",NA
+"LASSO + L3",10,1,"{""lambda"":0.3}",0.399304414503232
+"LASSO",10,2,"{""lambda"":0.15}",NA
+"Random forest",10,2,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",10,2,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",10,2,"null",NA
+"Mean-only baseline",10,2,"null",NA
+"LASSO + L3",10,2,"{""lambda"":0.3}",0.379852684766751
+"LASSO",10,3,"{""lambda"":0.5}",NA
+"Random forest",10,3,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",10,3,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",10,3,"null",NA
+"Mean-only baseline",10,3,"null",NA
+"LASSO + L3",10,3,"{""lambda"":0.5}",0.401960784313726
+"LASSO",10,4,"{""lambda"":0.3}",NA
+"Random forest",10,4,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",10,4,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",10,4,"null",NA
+"Mean-only baseline",10,4,"null",NA
+"LASSO + L3",10,4,"{""lambda"":0.5}",0.475757575757576
+"LASSO",10,5,"{""lambda"":0.15}",NA
+"Random forest",10,5,"{""min_node"":10,""mtry"":1}",NA
+"XGBoost",10,5,"{""depth"":1,""rounds"":25,""eta"":0.05}",NA
+"REML meta-regression",10,5,"null",NA
+"Mean-only baseline",10,5,"null",NA
+"LASSO + L3",10,5,"{""lambda"":0.15}",0.462116818558409

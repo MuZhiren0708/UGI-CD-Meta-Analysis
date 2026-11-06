@@ -1,0 +1,15 @@
+{
+  "original_reports": 50,
+  "original_cohort_records": 55,
+  "primary_cohorts": 41,
+  "primary_reports": 37,
+  "possible_source_families": 33,
+  "folds": 5,
+  "repeats": 10,
+  "maximum_metric_difference": 6.3949e-14,
+  "family_and_publication_separation": true,
+  "core_predictors": 3,
+  "binary_metrics_used": false,
+  "outcome_imputation": false,
+  "negative_R2_retained": true
+}

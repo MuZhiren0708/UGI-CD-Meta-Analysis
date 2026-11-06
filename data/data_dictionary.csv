@@ -1,0 +1,56 @@
+﻿variable,unit_or_type,description,missing_values
+row,identifier,Original Table 1 cohort-row number; stable join key,Empty/NA/NR means unavailable; never infer a zero
+paper,identifier,Source report identifier; multiple rows can share a report,Empty/NA/NR means unavailable; never infer a zero
+study,text,Study/cohort display label,Empty/NA/NR means unavailable; never infer a zero
+family,identifier,Conservative source-family validation block; not a claim of proven duplication,Empty/NA/NR means unavailable; never infer a zero
+family_basis,text,Reason for publication/source-family grouping,Empty/NA/NR means unavailable; never infer a zero
+N,patients,Assessed CD denominator for the extracted outcome and timepoint,Empty/NA/NR means unavailable; never infer a zero
+events,patients,Extracted study-reported phenotype cases,Empty/NA/NR means unavailable; never infer a zero
+age,years,Source-reported age summary used in modelling; see age_type and age_time,Empty/NA/NR means unavailable; never infer a zero
+male,percent 0-100,Source-reported male percentage; see denominator flags,Empty/NA/NR means unavailable; never infer a zero
+nos,stars 0-9,Arithmetic total of supplied NOS items used for subgroup analysis,Empty/NA/NR means unavailable; never infer a zero
+country,text,Source-reported country/location; multinational rows are not allocated to individual countries,Empty/NA/NR means unavailable; never infer a zero
+region,category,Geographic subgroup; Europe / Asia denotes combined multinational source,Empty/NA/NR means unavailable; never infer a zero
+design,category,Source-reported observational study design,Empty/NA/NR means unavailable; never infer a zero
+modality_original,text,Original diagnostic-method label; does not prove site-specific confirmation,Empty/NA/NR means unavailable; never infer a zero
+modality_group,category,Descriptive grouped diagnostic-method label,Empty/NA/NR means unavailable; never infer a zero
+objective_protocol,binary 0/1,Flag for recoverable objective location protocol in source audit; 0 does not establish symptoms-only diagnosis,Empty/NA/NR means unavailable; never infer a zero
+l3,proportion 0-1,Compatible inclusive ileocolonic L3 proportion; missing is not zero,Empty/NA/NR means unavailable; never infer a zero
+l3_missing_reason,text,Why an inclusive L3 proportion could not be used,Empty/NA/NR means unavailable; never infer a zero
+duration_years,years,Source-reported duration summary; definition and timepoint vary,Empty/NA/NR means unavailable; never infer a zero
+duration_used,binary 0/1,Whether duration is used as a model predictor; 0 in this revision,Empty/NA/NR means unavailable; never infer a zero
+ce_rate,proportion 0-1,Source-reported capsule-endoscopy use proportion where compatible,Empty/NA/NR means unavailable; never infer a zero
+ce_used,binary 0/1,Whether capsule use is used as a predictor; 0 in this revision,Empty/NA/NR means unavailable; never infer a zero
+age_recorded,years,Source age summary retained before modelling decisions,Empty/NA/NR means unavailable; never infer a zero
+male_recorded,percent 0-100,Recorded male percentage before modelling decisions,Empty/NA/NR means unavailable; never infer a zero
+age_scope_note,text,"Cohort scope, summary type and timing limitations for age/sex",Empty/NA/NR means unavailable; never infer a zero
+n,patients,Source-level CD denominator retained for audit; may differ from outcome-assessed N,Empty/NA/NR means unavailable; never infer a zero
+selection,text,Study sampling/selection description,Empty/NA/NR means unavailable; never infer a zero
+population,text,Source population and eligibility description,Empty/NA/NR means unavailable; never infer a zero
+time,text,Extracted phenotype assessment timepoint,Empty/NA/NR means unavailable; never infer a zero
+endpoint,text,Source phenotype definition at the selected timepoint,Empty/NA/NR means unavailable; never infer a zero
+isolated,patients,Recoverable isolated L4 count; missing is not zero,Empty/NA/NR means unavailable; never infer a zero
+concomitant,patients,Recoverable L4 with distal disease count; missing is not zero,Empty/NA/NR means unavailable; never infer a zero
+egd,patients,"Recoverable strict esophagogastroduodenal count, if available",Empty/NA/NR means unavailable; never infer a zero
+l4b,patients,"Recoverable proximal small-bowel phenotype count, if available",Empty/NA/NR means unavailable; never infer a zero
+ab,patients,"Recoverable combined L4a/L4b count, if available",Empty/NA/NR means unavailable; never infer a zero
+age_type,text,Source mean/median/range description,Empty/NA/NR means unavailable; never infer a zero
+age_time,text,Source timing of age measurement,Empty/NA/NR means unavailable; never infer a zero
+age_group,category,"Cohort-level age subgroup, not patient-specific classification",Empty/NA/NR means unavailable; never infer a zero
+primary,binary 0/1,Whether this cohort row contributes to the primary synthesis,Empty/NA/NR means unavailable; never infer a zero
+analysis_reason,text,"Documented inclusion, replacement or non-pooling reason",Empty/NA/NR means unavailable; never infer a zero
+source_pdf,filename,Source-PDF identifier; full PDFs are not redistributed,Empty/NA/NR means unavailable; never infer a zero
+source_pages,locator,Pages supporting extraction,Empty/NA/NR means unavailable; never infer a zero
+source_sha256,SHA-256,Digest of locally audited source PDF,Empty/NA/NR means unavailable; never infer a zero
+nos_reported,stars 0-9,Table-reported NOS score retained for provenance,Empty/NA/NR means unavailable; never infer a zero
+scope_code,category,Table 1 role code; membership explanation is in source_membership.csv,Empty/NA/NR means unavailable; never infer a zero
+definition_unclear,binary 0/1,Flag for unresolved isolated-versus-modifier L4 interpretation,Empty/NA/NR means unavailable; never infer a zero
+demographic_source_N,patients,Denominator supporting source age/sex summaries,Empty/NA/NR means unavailable; never infer a zero
+demographic_exact_denominator,binary 0/1,Whether demographic denominator exactly matches outcome N,Empty/NA/NR means unavailable; never infer a zero
+l3_raw,text,"Raw source L3 description, if retained",Empty/NA/NR means unavailable; never infer a zero
+reported_prevalence,proportion,Source-record prevalence retained for audit; analysis uses events/N,Empty/NA/NR means unavailable; never infer a zero
+source_notes,text,Source interpretation and reconciliation notes,Empty/NA/NR means unavailable; never infer a zero
+duration_context,text,Duration definition/timing cautions,Empty/NA/NR means unavailable; never infer a zero
+l3_reported_count,patients,"Compatible reported L3 numerator, if available",Empty/NA/NR means unavailable; never infer a zero
+l3_reported_denominator,patients,"Compatible reported L3 denominator, if available",Empty/NA/NR means unavailable; never infer a zero
+ce_reported_context,text,Source capsule-use count/denominator or NR,Empty/NA/NR means unavailable; never infer a zero

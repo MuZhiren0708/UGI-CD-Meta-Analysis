@@ -1,0 +1,17 @@
+{
+  "LASSO": {
+    "lambda": 0.3
+  },
+  "Random forest": {
+    "min_node": 10,
+    "mtry": 1
+  },
+  "XGBoost": {
+    "depth": 1,
+    "rounds": 25,
+    "eta": 0.05
+  },
+  "LASSO + L3": {
+    "lambda": 0.5
+  }
+}

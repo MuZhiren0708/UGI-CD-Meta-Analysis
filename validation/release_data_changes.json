@@ -1,0 +1,34 @@
+[
+  {
+    "file": "data/analysis_data.csv",
+    "paper": "R065",
+    "row": 55,
+    "field": "nos",
+    "old": null,
+    "new": 8
+  },
+  {
+    "file": "data/all_source_rows.csv",
+    "paper": "R065",
+    "row": 55,
+    "field": "nos",
+    "old": null,
+    "new": 8
+  },
+  {
+    "file": "data/table1_55_rows.csv",
+    "paper": "R065",
+    "row": 55,
+    "field": "nos",
+    "old": null,
+    "new": 8
+  },
+  {
+    "file": "data/source_audit_50.csv",
+    "paper": "R065",
+    "row": 55,
+    "field": "nos",
+    "old": null,
+    "new": 8
+  }
+]

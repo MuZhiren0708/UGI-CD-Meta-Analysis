@@ -1,0 +1,992 @@
+[
+  {
+    "row": 1,
+    "paper": "R019",
+    "study": "Shen et al. (2025)",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "-",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 4,
+    "star_total": 4,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 2,
+    "paper": "R020",
+    "study": "Chen et al. (2025) a",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "★"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 3,
+    "paper": "R020",
+    "study": "Chen et al. (2025) b",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "★"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 4,
+    "paper": "R021",
+    "study": "Bonfils et al. (2025)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 5,
+    "paper": "R022",
+    "study": "Velho et al. (2023)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 6,
+    "paper": "R023",
+    "study": "Facanali et al. (2023)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 7,
+    "paper": "R024",
+    "study": "Luceri et al. (2022)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 8,
+    "paper": "R025",
+    "study": "Joustra et al. (2022)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 9,
+    "paper": "R026",
+    "study": "Yen et al. (2021) a",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "-",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 4,
+    "star_total": 4,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 10,
+    "paper": "R027",
+    "study": "Yao et al. (2021) b",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 11,
+    "paper": "R028",
+    "study": "Tai et al. (2021)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "★"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 12,
+    "paper": "R029",
+    "study": "Davies et al. (2020)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 13,
+    "paper": "R030",
+    "study": "Gupta et al. (2020) a",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 14,
+    "paper": "R030",
+    "study": "Gupta et al. (2020) b",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 15,
+    "paper": "R031",
+    "study": "Mena Bares et al. (2019)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 16,
+    "paper": "R032",
+    "study": "Kayar et al. (2019)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 17,
+    "paper": "R033",
+    "study": "Fumery et al. (2019)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★★",
+      "★",
+      "★",
+      "★"
+    ],
+    "reported_total": 9,
+    "star_total": 9,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 18,
+    "paper": "R034",
+    "study": "Arieira et al. (2018)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 19,
+    "paper": "R035",
+    "study": "Arora et al. (2018)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 20,
+    "paper": "R036",
+    "study": "González-Suárez et al. (2018)",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "★",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 21,
+    "paper": "R037",
+    "study": "Lo et al. (2018)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 8,
+    "star_total": 8,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 22,
+    "paper": "R038",
+    "study": "Assa et al. (2018)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 23,
+    "paper": "R039",
+    "study": "de Barros et al. (2017)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 24,
+    "paper": "R040",
+    "study": "Rönnblom et al. (2017)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 8,
+    "star_total": 8,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 25,
+    "paper": "R041",
+    "study": "Coughlan et al. (2017) a",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 26,
+    "paper": "R041",
+    "study": "Coughlan et al. (2017) b",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 27,
+    "paper": "R006",
+    "study": "Kalaria et al. (2016)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 28,
+    "paper": "R042",
+    "study": "Simian et al. (2016)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 29,
+    "paper": "R043",
+    "study": "Guerra et al. (2016)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 30,
+    "paper": "R044",
+    "study": "Parente et al. (2015)",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "★",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 31,
+    "paper": "R045",
+    "study": "Carpio et al. (2015)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 32,
+    "paper": "R046",
+    "study": "Abu Freha et set al. (2015)",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "★",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 33,
+    "paper": "R047",
+    "study": "Israeli et al. (2014)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 34,
+    "paper": "R048",
+    "study": "Sjöberg et al. (2014)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 35,
+    "paper": "R049",
+    "study": "de Bie et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 36,
+    "paper": "R007",
+    "study": "Lazarev et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 37,
+    "paper": "R050",
+    "study": "Brinar et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 38,
+    "paper": "R051",
+    "study": "Syed et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 39,
+    "paper": "R052",
+    "study": "Ryan et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 8,
+    "star_total": 8,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 40,
+    "paper": "R053",
+    "study": "Boualit et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 41,
+    "paper": "R054",
+    "study": "Lovasz et al. (2013)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 42,
+    "paper": "R055",
+    "study": "Damas et al. (2013) a",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 43,
+    "paper": "R055",
+    "study": "Damas et al. (2013) b",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 44,
+    "paper": "R056",
+    "study": "Kestens et al. (2013) a",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 45,
+    "paper": "R056",
+    "study": "Kestens et al. (2013) b",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 46,
+    "paper": "R057",
+    "study": "Kiss et al. (2012)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 47,
+    "paper": "R058",
+    "study": "Eshuis et al. (2012)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 48,
+    "paper": "R059",
+    "study": "Song et al. (2011)",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "★",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 49,
+    "paper": "R060",
+    "study": "Thia et al. (2010)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 7,
+    "star_total": 7,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 50,
+    "paper": "R061",
+    "study": "Sewell et al. (2010)",
+    "items": [
+      "★",
+      "-",
+      "★",
+      "-",
+      "★",
+      "★",
+      "-",
+      "★"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 51,
+    "paper": "R062",
+    "study": "Lakatos et al. (2009)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 52,
+    "paper": "R017",
+    "study": "Chow et al. (2009)",
+    "items": [
+      "★",
+      "★",
+      "-",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 5,
+    "star_total": 5,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 53,
+    "paper": "R063",
+    "study": "Seow et al. (2009)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 54,
+    "paper": "R064",
+    "study": "Cullen et al. (2009)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "-",
+      "★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 6,
+    "star_total": 6,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  },
+  {
+    "row": 55,
+    "paper": "R065",
+    "study": "Tarrant et al. (2008)",
+    "items": [
+      "★",
+      "★",
+      "★",
+      "★",
+      "★★",
+      "★",
+      "★",
+      "-"
+    ],
+    "reported_total": 8,
+    "star_total": 8,
+    "basis": "Reconciled supplied Supplemental Table 1 item allocations; not an independent quality reassessment"
+  }
+]

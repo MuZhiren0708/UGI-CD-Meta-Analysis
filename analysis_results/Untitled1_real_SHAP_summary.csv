@@ -1,0 +1,4 @@
+"feature","mean_abs_shap","label_text"
+"LogN",0.00657336249996937,"Log sample size (0.0066)"
+"Age",0.0410735179790098,"Reported age summary (0.0411)"
+"Male",0.144550371334672,"Male proportion (0.1446)"

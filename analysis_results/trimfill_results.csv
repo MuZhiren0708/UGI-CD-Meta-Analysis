@@ -1,0 +1,2 @@
+"analysis","k","N","events","prevalence","lower","upper","I2","tau2","Q","observed_N","observed_events","note","imputed"
+"Trim and fill",55,NA,NA,20.1278047308162,16.482768687213,24.3439550519695,96.9049786865306,0.769413707243285,1744.73758112731,17812,2921,"k includes hypothetical imputed estimates; no additional patients or case counts are implied.",14

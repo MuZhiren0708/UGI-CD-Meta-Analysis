@@ -1,0 +1,352 @@
+[
+  {
+    "ref": "R006",
+    "file": "R006_Kalaria_2016.pdf",
+    "sha256": "cc0426e889bd20f592c8219dfdffa791d5ecafa59862a10fe7b203d21ac7554f",
+    "pages": 7,
+    "characters": 111349
+  },
+  {
+    "ref": "R007",
+    "file": "R007_Lazarev_2013.pdf",
+    "sha256": "8271841de4721a553b323e697704fa18a41c0aee9e01a3f928f9ab023cbf53ec",
+    "pages": 7,
+    "characters": 82026
+  },
+  {
+    "ref": "R017",
+    "file": "R017_Chow_2009.pdf",
+    "sha256": "86eb021b8f9a22379e96a51be7c9787a1e6fa789311a521d41b4124521d713a2",
+    "pages": 7,
+    "characters": 229768
+  },
+  {
+    "ref": "R019",
+    "file": "R019_Shen_2025.pdf",
+    "sha256": "36fc14dff35b5876b48b6a3951c31734ca0f92256a52844028893737104d218f",
+    "pages": 8,
+    "characters": 93086
+  },
+  {
+    "ref": "R020",
+    "file": "R020_Chen_2025.pdf",
+    "sha256": "6ab946a0af3464cb04dc079289f87e92048bca745c33e36d0281dc9742264505",
+    "pages": 8,
+    "characters": 194940
+  },
+  {
+    "ref": "R021",
+    "file": "R021_Bonfils_2025.pdf",
+    "sha256": "a070896d383fd228c32c35a99d286de5ba07cb81d25acec76b5b8490653fc535",
+    "pages": 21,
+    "characters": 52100
+  },
+  {
+    "ref": "R022",
+    "file": "R022_Velho_2023.pdf",
+    "sha256": "b370ddc14eef1fe2ec251a6416487c985c6f003c6de71bee45d336b8a60acb0c",
+    "pages": 9,
+    "characters": 220540
+  },
+  {
+    "ref": "R023",
+    "file": "R023_Facanali_2023.pdf",
+    "sha256": "f25f16f1ff9053af7249a474aa3841bd43aa977bc7e0617eca14aac18111bf42",
+    "pages": 7,
+    "characters": 198380
+  },
+  {
+    "ref": "R024",
+    "file": "R024_Luceri_2022.pdf",
+    "sha256": "94fad712f3b53cd387db0e5cb9a264b96245db7b34b729524c4c79bc83f54f84",
+    "pages": 10,
+    "characters": 161053
+  },
+  {
+    "ref": "R025",
+    "file": "R025_Joustra_2022.pdf",
+    "sha256": "a772b25831951a8907a934828f4dd82764fdf56f668c28f1f3d445a8408134f4",
+    "pages": 8,
+    "characters": 174387
+  },
+  {
+    "ref": "R026",
+    "file": "R026_Yen_2021.pdf",
+    "sha256": "4be34ce2cc16d746d7d7420c067659c85f0f889948ce0f1bb7d1b32d176b4990",
+    "pages": 6,
+    "characters": 175074
+  },
+  {
+    "ref": "R027",
+    "file": "R027_Yao_2021.pdf",
+    "sha256": "5ff36c81e1b7decb25cbbdcccb11ea6d18d031538448c04540a9720524ffc1ec",
+    "pages": 9,
+    "characters": 159424
+  },
+  {
+    "ref": "R028",
+    "file": "R028_Tai_2021.pdf",
+    "sha256": "5f25f543cc194f82f8df6572db419ea9176e4fbfaa49c8a396d5f5193dcefa08",
+    "pages": 8,
+    "characters": 178916
+  },
+  {
+    "ref": "R029",
+    "file": "R029_Davies_2020.pdf",
+    "sha256": "f41352bb24fe1fb53305270ccb415d9d804359c051643214cea86a7a16c03f9f",
+    "pages": 7,
+    "characters": 150037
+  },
+  {
+    "ref": "R030",
+    "file": "R030_Gupta_2020.pdf",
+    "sha256": "8ab30cdaaa54430c150d35e7d8175c86f78bb5419f5847d21706f468eae5bdab",
+    "pages": 27,
+    "characters": 46644
+  },
+  {
+    "ref": "R031",
+    "file": "R031_Mena_Bares_2019.pdf",
+    "sha256": "d26e0de43a3c5e9c3c3460af86288dcef95a433370c35be498ba661c6665721e",
+    "pages": 5,
+    "characters": 46399
+  },
+  {
+    "ref": "R032",
+    "file": "R032_Kayar_2019.pdf",
+    "sha256": "817511c726aed05183b2cae86f7f6663b49326c6b208c0621c2b13f29f872339",
+    "pages": 7,
+    "characters": 178165
+  },
+  {
+    "ref": "R033",
+    "file": "R033_Fumery_2019.pdf",
+    "sha256": "b246523be6fb7ec9b2d8cec77d4c7e2d00a4da3afe9e26c3f6f2eada22e2e737",
+    "pages": 7,
+    "characters": 30757550
+  },
+  {
+    "ref": "R034",
+    "file": "R034_Arieira_2018.pdf",
+    "sha256": "317f3bf8e6e0d3590df41225a8afc287507216a26a64df6a546edc501c80adc6",
+    "pages": 7,
+    "characters": 167411
+  },
+  {
+    "ref": "R035",
+    "file": "R035_Arora_2018.pdf",
+    "sha256": "40d5ee3e1d557e8a2e4be00bd02c700da8c61d6dbc8c88063d2d1672b056500a",
+    "pages": 8,
+    "characters": 137497
+  },
+  {
+    "ref": "R036",
+    "file": "R036_González-Suárez_2018.pdf",
+    "sha256": "2721674fe73a9b5dd83ae378b7544fe83e163947ea659b425e36fb5d2830f03c",
+    "pages": 6,
+    "characters": 87322
+  },
+  {
+    "ref": "R037",
+    "file": "R037_Lo_2018.pdf",
+    "sha256": "aa8b8ec4663217c899be27dd66b4d7f936e68e810386b93f3859755b27fdc5ef",
+    "pages": 27,
+    "characters": 44152
+  },
+  {
+    "ref": "R038",
+    "file": "R038_Assa_2018.pdf",
+    "sha256": "76888093378e238656f2aebf450aa79cbb332252467d5a724b99777d2692f143",
+    "pages": 9,
+    "characters": 216151
+  },
+  {
+    "ref": "R039",
+    "file": "R039_de_Barros_2017.pdf",
+    "sha256": "4250374572deab27b724a9b82416bdff8add129d74ad1780d09479feb91b677c",
+    "pages": 8,
+    "characters": 176684
+  },
+  {
+    "ref": "R040",
+    "file": "R040_Rönnblom_2017.pdf",
+    "sha256": "238ed99a77efbd957dcce765c681b320bf329d57abda98d1aad720e32c5b6292",
+    "pages": 7,
+    "characters": 185948
+  },
+  {
+    "ref": "R041",
+    "file": "R041_Coughlan_2017.pdf",
+    "sha256": "ad563b2ccda1a57fa55a18f9f5a71d22f0e51e850ed4028e3257fc9089805a69",
+    "pages": 8,
+    "characters": 175638
+  },
+  {
+    "ref": "R042",
+    "file": "R042_Simian_2016.pdf",
+    "sha256": "270529db8346a13b7d020fe713026c6e417f0dc9b911084f130ea6fdda0bc2ef",
+    "pages": 10,
+    "characters": 89334
+  },
+  {
+    "ref": "R043",
+    "file": "R043_Guerra_2016.pdf",
+    "sha256": "263d798f5b88858746f9e99ee41ac91c68a702851d487d160947f8a64ba3506b",
+    "pages": 8,
+    "characters": 182209
+  },
+  {
+    "ref": "R044",
+    "file": "R044_Parente_2015.pdf",
+    "sha256": "72df559cbf809148a7223298f9a0a88ab607aa5150914f336c674f3fb56b0bbe",
+    "pages": 11,
+    "characters": 94804
+  },
+  {
+    "ref": "R045",
+    "file": "R045_Carpio_2015.pdf",
+    "sha256": "710d322d644ad360aa7fa098cd40d21a83efaa9f0c22f8a41e5f13452cb058db",
+    "pages": 8,
+    "characters": 246891
+  },
+  {
+    "ref": "R046",
+    "file": "R046_Abu_Freha_2015.pdf",
+    "sha256": "1965e306b6456d233f19581668048c21813bbaecc1007f10e339dff53f8cd540",
+    "pages": 5,
+    "characters": 130450
+  },
+  {
+    "ref": "R047",
+    "file": "R047_Israeli_2014.pdf",
+    "sha256": "0585302348c2e2cbec390156e76e4ed932a5aa6fe5764cc74385d9a364d75794",
+    "pages": 9,
+    "characters": 207241
+  },
+  {
+    "ref": "R048",
+    "file": "R048_Sjöberg_2014.pdf",
+    "sha256": "52d238b57f31a6a7dc7128cadbfdd44ecde947ebb9bd4fc9c7f4a7f85e41fa08",
+    "pages": 8,
+    "characters": 185300
+  },
+  {
+    "ref": "R049",
+    "file": "R049_de_Bie_2013.pdf",
+    "sha256": "07afde5bdfb9da69ddf52bafe12abadd74af2ac55ce67a5a60709d389e28b85e",
+    "pages": 9,
+    "characters": 199504
+  },
+  {
+    "ref": "R050",
+    "file": "R050_Brinar_2013.pdf",
+    "sha256": "a9cae579ba81c2e33c188f0c7b69f0d7e7af14fbc04927b1ab1a458439531e00",
+    "pages": 7,
+    "characters": 176792
+  },
+  {
+    "ref": "R051",
+    "file": "R051_Syed_2013.pdf",
+    "sha256": "7483472e82d4617e8921cdcd329d6c39a4b34a17af08a09047ddfbb72f66ecaa",
+    "pages": 11,
+    "characters": 195200
+  },
+  {
+    "ref": "R052",
+    "file": "R052_Ryan_2013.pdf",
+    "sha256": "33b25a887ee6889ef05aeb9f600d39f7229d9042aac02dff001914ed0d203ea8",
+    "pages": 10,
+    "characters": 242917
+  },
+  {
+    "ref": "R053",
+    "file": "R053_Boualit_2013.pdf",
+    "sha256": "a0e26f28462bf874574f7e5e43045e2879c1a9416dd7cc6919b1b76829276cc5",
+    "pages": 8,
+    "characters": 218782
+  },
+  {
+    "ref": "R054",
+    "file": "R054_Lovasz_2013.pdf",
+    "sha256": "4bb30af6f2164f8d3302f3fb40978f922da0673b6ec3f01e461a6db5ed2774ef",
+    "pages": 10,
+    "characters": 89191
+  },
+  {
+    "ref": "R055",
+    "file": "R055_Damas_2013.pdf",
+    "sha256": "bb41601a22592fb183c479e3983644322aabc626b2586f420be1f55e332a755e",
+    "pages": 9,
+    "characters": 117070
+  },
+  {
+    "ref": "R056",
+    "file": "R056_Kestens_2013.pdf",
+    "sha256": "a1a1b67df0f99de1e174cd7f7bc016661b48792b0dd1c362e2ecd9002a1206d2",
+    "pages": 21,
+    "characters": 121035
+  },
+  {
+    "ref": "R057",
+    "file": "R057_Kiss_2012.pdf",
+    "sha256": "4be7095187ad0ea9c2e39de349d6eea5c17509c615215e7aeadda666d20934ce",
+    "pages": 8,
+    "characters": 206624
+  },
+  {
+    "ref": "R058",
+    "file": "R058_Eshuis_2012.pdf",
+    "sha256": "93a32beeeec2434f2144f54bce57962f4fac9cc028ba804a73caf17b2902aefd",
+    "pages": 7,
+    "characters": 116302
+  },
+  {
+    "ref": "R059",
+    "file": "R059_Song_2011.pdf",
+    "sha256": "f6062ecff626c2e27823fb893a8d477500ebfc03f755d9e7b4b2801cc8279bcc",
+    "pages": 8,
+    "characters": 224198
+  },
+  {
+    "ref": "R060",
+    "file": "R060_Thia_2010.pdf",
+    "sha256": "c80b72cde77f9e8b64e5d63e1ca985e7900b45a61214aa2e4d5cd6a49a0031e2",
+    "pages": 9,
+    "characters": 242247
+  },
+  {
+    "ref": "R061",
+    "file": "R061_Sewell_2010.pdf",
+    "sha256": "64306354cc5946e6686c168b5d27feb3a2f6ea0d66ce5165b284f36e04ef4946",
+    "pages": 9,
+    "characters": 202546
+  },
+  {
+    "ref": "R062",
+    "file": "R062_Lakatos_2009.pdf",
+    "sha256": "75e3358f2f26166fa0313e6bfe33b239160f13fe05f6c9c67cce6f6ae20ece72",
+    "pages": 7,
+    "characters": 93524
+  },
+  {
+    "ref": "R063",
+    "file": "R063_Seow_2009.pdf",
+    "sha256": "8a443ba534f53fd5b89b999fb2a2c633a106ffa49fb1225aec244be6aca2e2d6",
+    "pages": 9,
+    "characters": 2092745
+  },
+  {
+    "ref": "R064",
+    "file": "R064_Cullen_2009.pdf",
+    "sha256": "d82915414cad656a32aba3b6f49688676efdb4f5ab5ba8bbdcf8d1be4142b58a",
+    "pages": 6,
+    "characters": 112619
+  },
+  {
+    "ref": "R065",
+    "file": "R065_Tarrant_2008.pdf",
+    "sha256": "cfa7dc0bee83fb7eb3055c94658c2db68753a2bb33f6fe06e4f8b3cb954fa3cf",
+    "pages": 12,
+    "characters": 170084
+  }
+]

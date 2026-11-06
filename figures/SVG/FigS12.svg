@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='612.00pt' height='302.40pt' viewBox='0 0 612.00 302.40'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTIuMDB8MC4wMHwzMDIuNDA='>
+    <rect x='0.00' y='0.00' width='612.00' height='302.40' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHwzMDIuNDA=)'>
+<text x='129.58' y='95.11' style='font-size: 10.00px; font-weight: bold; font-family: "Times New Roman";' textLength='25.02px' lengthAdjust='spacingAndGlyphs'>Study</text>
+<text x='129.58' y='170.71' style='font-size: 10.00px; font-weight: bold; font-family: "Times New Roman";' textLength='64.62px' lengthAdjust='spacingAndGlyphs'>Total (95% CI)</text>
+<text x='129.58' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='55.75px' lengthAdjust='spacingAndGlyphs'>Heterogeneity: </text>
+<text x='185.33' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='13.38px' lengthAdjust='spacingAndGlyphs'>Tau</text>
+<text x='198.71' y='209.85' style='font-size: 6.30px; font-family: "Times New Roman";' textLength='3.16px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='201.86' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='34.33px' lengthAdjust='spacingAndGlyphs'> = 0.5647</text>
+<text x='236.19' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='4.75px' lengthAdjust='spacingAndGlyphs'>; </text>
+<text x='240.94' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='13.00px' lengthAdjust='spacingAndGlyphs'>Chi</text>
+<text x='253.94' y='209.85' style='font-size: 6.30px; font-family: "Times New Roman";' textLength='3.16px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='257.10' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='60.41px' lengthAdjust='spacingAndGlyphs'> = 146.88, df = 3</text>
+<text x='317.50' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='5.25px' lengthAdjust='spacingAndGlyphs'> (</text>
+<text x='322.75' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='5.00px' lengthAdjust='spacingAndGlyphs'>P</text>
+<text x='327.76' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='34.33px' lengthAdjust='spacingAndGlyphs'> &lt; 0.0001</text>
+<text x='362.08' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='7.75px' lengthAdjust='spacingAndGlyphs'>); </text>
+<text x='369.83' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='3.00px' lengthAdjust='spacingAndGlyphs'>I</text>
+<text x='372.83' y='209.85' style='font-size: 6.30px; font-family: "Times New Roman";' textLength='3.16px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='375.98' y='213.67' style='font-size: 9.00px; font-family: "Times New Roman";' textLength='32.83px' lengthAdjust='spacingAndGlyphs'> = 98.0%</text>
+<text x='129.58' y='116.71' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='78.86px' lengthAdjust='spacingAndGlyphs'>Davies et al. (2020)</text>
+<text x='129.58' y='127.51' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='89.98px' lengthAdjust='spacingAndGlyphs'>Coughlan et al. (2017)</text>
+<text x='129.58' y='138.31' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='76.92px' lengthAdjust='spacingAndGlyphs'>de Bie et al. (2013)</text>
+<text x='129.58' y='149.11' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='83.28px' lengthAdjust='spacingAndGlyphs'>Lazarev et al. (2013)</text>
+<text x='248.26' y='95.11' text-anchor='end' style='font-size: 10.00px; font-weight: bold; font-family: "Times New Roman";' textLength='24.44px' lengthAdjust='spacingAndGlyphs'>Cases</text>
+<text x='248.26' y='116.71' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>34</text>
+<text x='248.26' y='127.51' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>74</text>
+<text x='248.26' y='138.31' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='15.00px' lengthAdjust='spacingAndGlyphs'>172</text>
+<text x='248.26' y='149.11' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='15.00px' lengthAdjust='spacingAndGlyphs'>231</text>
+<text x='306.67' y='95.11' text-anchor='end' style='font-size: 10.00px; font-weight: bold; font-family: "Times New Roman";' textLength='54.16px' lengthAdjust='spacingAndGlyphs'>Assessed CD</text>
+<text x='306.67' y='170.71' text-anchor='end' style='font-size: 10.00px; font-weight: bold; font-family: "Times New Roman";' textLength='20.00px' lengthAdjust='spacingAndGlyphs'>3068</text>
+<text x='306.67' y='116.71' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='15.00px' lengthAdjust='spacingAndGlyphs'>132</text>
+<text x='306.67' y='127.51' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='15.00px' lengthAdjust='spacingAndGlyphs'>249</text>
+<text x='306.67' y='138.31' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='15.00px' lengthAdjust='spacingAndGlyphs'>582</text>
+<text x='306.67' y='149.11' text-anchor='end' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='20.00px' lengthAdjust='spacingAndGlyphs'>2105</text>
+<polygon points='312.34,172.80 482.42,172.80 482.42,102.00 312.34,102.00 ' style='stroke-width: 0.75; stroke: none;' />
+<polyline points='408.84,167.40 408.84,102.00 ' style='stroke-width: 0.75; stroke-dasharray: 1.00,3.00;' />
+<polyline points='312.34,172.80 482.42,172.80 ' style='stroke-width: 0.75;' />
+<line x1='312.34' y1='172.80' x2='312.34' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='354.86' y1='172.80' x2='354.86' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='397.38' y1='172.80' x2='397.38' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='439.90' y1='172.80' x2='439.90' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='482.42' y1='172.80' x2='482.42' y2='178.80' style='stroke-width: 0.75;' />
+<text x='312.34' y='194.11' text-anchor='middle' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='5.00px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='354.86' y='194.11' text-anchor='middle' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='397.38' y='194.11' text-anchor='middle' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='439.90' y='194.11' text-anchor='middle' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='482.42' y='194.11' text-anchor='middle' style='font-size: 10.00px; font-family: "Times New Roman";' textLength='10.00px' lengthAdjust='spacingAndGlyphs'>40</text>
+<polyline points='312.34,172.80 482.42,172.80 ' style='stroke-width: 0.75;' />
+<line x1='312.34' y1='172.80' x2='312.34' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='354.86' y1='172.80' x2='354.86' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='397.38' y1='172.80' x2='397.38' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='439.90' y1='172.80' x2='439.90' y2='178.80' style='stroke-width: 0.75;' />
+<line x1='482.42' y1='172.80' x2='482.42' y2='178.80' style='stroke-width: 0.75;' />
+<text x='397.38' y='95.11' text-anchor='middle' style='font-size: 10.00px; font-weight: bold; font-family: "Times New Roman";' textLength='65.61px' lengthAdjust='spacingAndGlyphs'>Prevalence (%)</text>
+<polygon points='364.22,167.40 408.84,163.56 475.10,167.40 408.84,171.24 ' style='stroke-width: 0.75; stroke: #ED0000; fill: #ED0000;' />
+<rect x='417.20' y='108.74' width='9.31' height='9.31' style='stroke-width: 0.75; fill: #00468B;' />
+<polyline points='421.86,114.48 421.86,112.32 ' style='stroke-width: 0.75;' />
+<polyline points='391.18,113.40 457.29,113.40 ' style='stroke-width: 0.75;' />
+<rect x='433.97' y='119.47' width='9.47' height='9.47' style='stroke-width: 0.75; fill: #00468B;' />
+<polyline points='438.70,125.28 438.70,123.12 ' style='stroke-width: 0.75;' />
+<polyline points='414.87,124.20 464.62,124.20 ' style='stroke-width: 0.75;' />
+<rect x='433.21' y='130.22' width='9.56' height='9.56' style='stroke-width: 0.75; fill: #00468B;' />
+<polyline points='438.00,136.08 438.00,133.92 ' style='stroke-width: 0.75;' />
+<polyline points='422.34,135.00 454.54,135.00 ' style='stroke-width: 0.75;' />
+<rect x='354.20' y='141.00' width='9.60' height='9.60' style='stroke-width: 0.75; fill: #00468B;' />
+<polyline points='359.00,146.88 359.00,144.72 ' style='stroke-width: 0.75;' />
+<polyline points='353.45,145.80 365.01,145.80 ' style='stroke-width: 0.75;' />
+<polyline points='129.58,102.00 219.57,102.00 ' style='stroke-width: 0.75;' />
+<polyline points='219.57,102.00 223.82,102.00 ' style='stroke-width: 0.75;' />
+<polyline points='223.82,102.00 248.26,102.00 ' style='stroke-width: 0.75;' />
+<polyline points='248.26,102.00 252.51,102.00 ' style='stroke-width: 0.75;' />
+<polyline points='252.51,102.00 306.67,102.00 ' style='stroke-width: 0.75;' />
+<polyline points='306.67,102.00 312.34,102.00 ' style='stroke-width: 0.75;' />
+<polyline points='312.34,102.00 482.42,102.00 ' style='stroke-width: 0.75;' />
+</g>
+</g>
+</svg>

@@ -1,0 +1,6 @@
+﻿variable,available_cohorts,total_cohorts,model_role
+age,31,41,Core
+male,34,41,Core
+l3,30,41,Extended LASSO only
+duration_years,8,41,Extraction only; sparse/heterogeneous timing
+ce_rate,2,41,Extraction only; sparse

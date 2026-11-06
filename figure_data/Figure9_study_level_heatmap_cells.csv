@@ -1,0 +1,13 @@
+"l3_band","cohort_age","predicted","observed","k"
+"Lower L3
+≤35.0%","Other / mixed cohorts",11.3698724818272,7.45236822675305,9
+"Middle L3
+35.0-48.1%","Other / mixed cohorts",11.232181677695,7.03590756592828,9
+"Higher L3
+>48.1%","Other / mixed cohorts",13.6011090258491,15.3254936448995,7
+"Lower L3
+≤35.0%","Paediatric cohorts",11.4147767557496,38.0434782608696,1
+"Middle L3
+35.0-48.1%","Paediatric cohorts",11.4322118912102,39.4904458598726,1
+"Higher L3
+>48.1%","Paediatric cohorts",13.1953848915834,37.3962928625154,3

@@ -1,0 +1,63 @@
+{
+  "baseline": "First supplied manuscript/supplement and original two R files",
+  "pooling": "Inverse-variance logit DL; original valid source timepoints retained, including Fumery227/535 at follow-up; diagnosis-time sensitivity supplied",
+  "scope": "Study-reported L4 with five explicitly flagged ambiguous-definition reports; exclude those in strict-definition sensitivity",
+  "Table1_rows": 55,
+  "reports": 50,
+  "primary_cohorts": 41,
+  "primary_reports": 37,
+  "validation_families": 33,
+  "role_counts": {
+    "P": 41,
+    "I": 5,
+    "S": 2,
+    "D": 2,
+    "U": 2,
+    "M": 3
+  },
+  "no_new_exclusion_for_design_label_alone": true,
+  "confirmed_duplicate_reports": [
+    "R048",
+    "R053"
+  ],
+  "outcome_matched_reports": [
+    "R056",
+    "R058"
+  ],
+  "unclear_definition_reports": [
+    "R020",
+    "R030",
+    "R031",
+    "R055",
+    "R064"
+  ],
+  "possible_families": [
+    "AIIMS",
+    "Manitoba",
+    "NIDDK_Toronto",
+    "EUROKIDS_Copenhagen"
+  ],
+  "ML": {
+    "outer_folds": 5,
+    "inner_folds": 5,
+    "repeats": 10,
+    "grouping": "All cohort rows from a publication and possible source family kept together",
+    "core": [
+      "Source-reported age summary",
+      "Male percentage",
+      "Log CD denominator"
+    ],
+    "extension": "Source-aligned inclusive L3 proportion plus missingness indicator",
+    "outcome_imputation": false,
+    "binary_metrics": false,
+    "negative_R2_retained": true
+  },
+  "source_limitations": [
+    "The supplied Supplemental Table 1 item allocations for Tarrant sum to 8; the reconciled total enters the NOS >=7 subgroup. This arithmetic reconciliation is not an independent reassessment of quality judgments.",
+    "Source-described age mean/median and timing differ; aggregate associations only",
+    "Three same-CD demographic denominators differ slightly from assessed-outcome N; flags and restricted sensitivity provided",
+    "Historical search execution dates/count mapping unavailable; original Figure1 retained",
+    "No independent external validation or individual prediction is claimed"
+  ],
+  "release_date": "2026-11-06"
+}
